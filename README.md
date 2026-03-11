@@ -13,7 +13,7 @@ This repository provides resources for the paper:
       <a href="https://ketan-nehete-portfolio-hub.lovable.app/" target="_blank">Suryank Joshi</a>, and 
       <a href="https://www.shishirny.com/" target="_blank">Shishir Kolathaya</a>
       <br>
-      <em>International Conference on Advances in Robotics, 2025</em>
+      <em>International Conference on Advances in Robotics (AIR), 2025</em>
       <br>
       <a href="https://youtu.be/ygSMCPcFnP8">Video</a>
       <br>
