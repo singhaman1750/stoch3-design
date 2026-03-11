@@ -3,7 +3,7 @@
 
 ### CAD design links:
 To access the CAD files, it is recommended that you make an Onshape account. Onshape is an online CAD design software, which simplifies the process of sharing CAD files and also there are no version mismatch issues.
-You can follow this video tutorial to make an account on Onshape [[]()]. 
+You can create an Onshape accout [here](https://www.onshape.com/en/education/sign-up). 
 
 Find the Onshape CAD files below:
 
