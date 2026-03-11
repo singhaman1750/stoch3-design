@@ -10,7 +10,7 @@ This repository provides resources for the paper:
       <br>
       <a href="https://singhaman1750.github.io/" target="_blank">Aman Singh</a>, 
       <a href="https://www.linkedin.com/in/bhavya-giri-goswami/" target="_blank">Bhavya Giri Goswami</a>, 
-      <a href="https://ketan-nehete-portfolio-hub.lovable.app/" target="_blank">Suryank Joshi</a>, and 
+      <a href="https://ketan-nehete-portfolio-hub.lovable.app/" target="_blank">Ketan Nehete</a>, and 
       <a href="https://www.shishirny.com/" target="_blank">Shishir Kolathaya</a>
       <br>
       <em>International Conference on Advances in Robotics (AIR), 2025</em>
