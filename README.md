@@ -36,6 +36,12 @@ The CAD files can be accessed using the following links:
 3. **Thigh link design:** [Link](https://cad.onshape.com/documents/d8ae50551be2df15ebf93f24/w/bb7502c4f61241d2e79717f0/e/ee3b7bd5e9bf655cf6984a73?renderMode=0&uiState=69b17ff1c0a4c733da1a8d48)
 4. **Leg Assembly:** [Link](https://cad.onshape.com/documents/245cbf5c74ef4be86350b65a/w/bb77d0d16c6033a6b6ff5b06/e/65f52a5fc354523fa13f6082?renderMode=0&uiState=69b1801879e3f516d9572e6c)
 
-### Grabcad
+### GrabCAD
+
+The CAD models are also available on **GrabCAD**, a widely used platform for sharing mechanical designs with the engineering community.
+To access the files, it is recommended to create a GrabCAD account.
+You can create a GrabCAD account here: https://grabcad.com/
+
+The CAD files can be accessed using the following link:
 
 1. **Actuator design:** [Link](https://grabcad.com/library/stoch3-quadruped-robot-joint-actuator-1)
