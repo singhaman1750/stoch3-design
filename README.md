@@ -55,8 +55,14 @@ The CAD files can be accessed using the following link:
 1. **Actuator design:** [Link](https://grabcad.com/library/stoch3-quadruped-robot-joint-actuator-1)
 
 --------------------
+## Design of the robot
 
+### Robot Dimensions
 
-
+<p align="center">
+  <img src="images/Robot-dimensions.png" width="40%">
+  <br>
+  <em>Robot Dimensions</em>
+</p>
 
 
