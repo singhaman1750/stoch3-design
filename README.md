@@ -27,6 +27,8 @@ This repository provides resources for the paper:
   <em>Stoch 3 robot</em>
 </p>
 
+----------------
+
 ## CAD Design Links
 
 ### Onshape
@@ -51,3 +53,10 @@ You can create a GrabCAD account here: https://grabcad.com/
 The CAD files can be accessed using the following link:
 
 1. **Actuator design:** [Link](https://grabcad.com/library/stoch3-quadruped-robot-joint-actuator-1)
+
+--------------------
+
+
+
+
+
