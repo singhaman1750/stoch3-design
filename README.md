@@ -21,6 +21,8 @@ This repository provides resources for the paper:
 
 <br>
 
+![Stoch-3 robot](/images/stoch-3-diag.png)
+
 ## CAD Design Links
 
 ### Onshape
