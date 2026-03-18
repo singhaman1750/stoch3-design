@@ -21,7 +21,11 @@ This repository provides resources for the paper:
 
 <br>
 
-![Stoch-3 robot](/images/stoch-3-diag.png)
+<p align="center">
+  <img src="images/stoch-3-diag.png" width="40%">
+  <br>
+  <em>Stoch 3 robot</em>
+</p>
 
 ## CAD Design Links
 
