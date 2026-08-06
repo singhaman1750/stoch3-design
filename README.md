@@ -1,80 +1,68 @@
-# Academic Project Page Template
+# Stoch-3
+## A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
+This repository provides resources for the paper:
 
-A clean, responsive template for academic project pages.
+<td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2503.14255" target="_blank">
+      <b> A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis </b>
+      </a>
+      <br>
+      <a href="https://singhaman1750.github.io/" target="_blank">Aman Singh</a>, 
+      <a href="https://www.linkedin.com/in/bhavya-giri-goswami/" target="_blank">Bhavya Giri Goswami</a>, 
+      <a href="https://ketan-nehete-portfolio-hub.lovable.app/" target="_blank">Ketan Nehete</a>, and 
+      <a href="https://www.shishirny.com/" target="_blank">Shishir Kolathaya</a>
+      <br>
+      <em>International Conference on Advances in Robotics (AIR), 2025</em>
+      <br>
+      <a href="https://youtu.be/ygSMCPcFnP8">Video</a>
+      <br>
+</td>
+
+<br>
+
+<p align="center">
+  <img src="images/stoch-3-diag.png" width="40%">
+  <br>
+  <em>Stoch 3 robot</em>
+</p>
+
+----------------
+
+## CAD Design Links
+
+### Onshape
+
+The CAD models are hosted on **Onshape**, a cloud-based CAD platform that enables easy sharing and avoids version compatibility issues. To access the files, it is recommended to create an Onshape account.
+
+You can create an Onshape account here: https://www.onshape.com/en/education/sign-up
+
+The CAD files can be accessed using the following links:
+
+1. **Actuator design:** [Link](https://cad.onshape.com/documents/41a42f0b1b1863332e36093b/w/6b3863c591b6f407058acbba/e/3d32317a5e5c9adbf74a0c28)
+2. **Shank / Calf link design:** [Link](https://cad.onshape.com/documents/48119f0a824f87f8fd2693f1/w/8c85363c912984c0d56634ac/e/bf870822b0b3b00dc0fa5582)
+3. **Thigh link design:** [Link](https://cad.onshape.com/documents/d8ae50551be2df15ebf93f24/w/bb7502c4f61241d2e79717f0/e/ee3b7bd5e9bf655cf6984a73?renderMode=0&uiState=69b17ff1c0a4c733da1a8d48)
+4. **Leg Assembly:** [Link](https://cad.onshape.com/documents/245cbf5c74ef4be86350b65a/w/bb77d0d16c6033a6b6ff5b06/e/65f52a5fc354523fa13f6082?renderMode=0&uiState=69b1801879e3f516d9572e6c)
+
+### GrabCAD
+
+The CAD models are also available on **GrabCAD**, a widely used platform for sharing mechanical designs with the engineering community.
+To access the files, it is recommended to create a GrabCAD account.
+You can create a GrabCAD account here: https://grabcad.com/
+
+The CAD files can be accessed using the following link:
+
+1. **Actuator design:** [Link](https://grabcad.com/library/stoch3-quadruped-robot-joint-actuator-1)
+
+--------------------
+## Design of the robot
+
+### Robot Dimensions
+
+<p align="center">
+  <img src="images/Robot-dimensions.png" width="40%">
+  <br>
+  <em>Robot Dimensions</em>
+</p>
 
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
-
-
-
-## Start using the template
-To start using the template click on `Use this Template`.
-
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
-
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
-
-## What's New
-
-- Modern, clean design with better mobile support
-- Improved SEO with proper meta tags and structured data
-- Performance improvements (lazy loading, optimized assets)
-- More Works dropdown
-- Copy button for BibTeX citations
-- Better accessibility
-
-## Components
-
-- Teaser video
-- Image carousel
-- YouTube video embedding
-- Video carousel
-- PDF poster viewer
-- BibTeX citation
-
-## Customization
-
-The HTML file has TODO comments showing what to replace:
-
-- Paper title, authors, institution, conference
-- Links (arXiv, GitHub, etc.)
-- Abstract and descriptions  
-- Videos, images, and PDFs
-- Related works in the dropdown
-- Meta tags for SEO and social sharing
-
-### Meta Tags
-The template includes meta tags for better search engine visibility and social media sharing. These appear in the `<head>` section and help with:
-- Google Scholar indexing
-- Social media previews (Twitter, Facebook, LinkedIn)
-- Search engine optimization
-
-Create a 1200x630px social preview image at `static/images/social_preview.png`.
-
-## Tips
-
-- Compress images with [TinyPNG](https://tinypng.com)
-- Use YouTube for large videos (>10MB)  
-- Replace the favicon in `static/images/`
-- Works with GitHub Pages
-
-## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
-
-## Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
