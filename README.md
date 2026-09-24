@@ -8,6 +8,9 @@ This repository provides resources for the paper **["A Chain-Driven, Sandwich-Le
 
 **Links:** [Paper](https://arxiv.org/abs/2503.14255) · [Video](https://youtu.be/ygSMCPcFnP8) · [Website](https://aman-singh.in/stoch3-design/)
 
+> [!IMPORTANT]
+> **Looking for the CAD files?** They're below the poster. Jump to **[CAD Design Links ↓](#cad-design-links)** (Onshape & GrabCAD).
+
 <p align="center">
   <img src="images/svg_diagrams/stoch-3%20poster.svg" width="100%">
   <br>
