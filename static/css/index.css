@@ -283,6 +283,15 @@ body {
   height: auto;
 }
 
+.results-carousel .item img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 480px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
 .results-carousel .subtitle {
   font-size: 1rem !important;
   color: var(--text-secondary);
