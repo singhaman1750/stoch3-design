@@ -1,15 +1,22 @@
+<div align="center">
+
 # Stoch-3
 
 ### A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis
 
-This repository provides resources for the paper **["A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis"](https://arxiv.org/abs/2503.14255)**, *International Conference on Advances in Robotics (AIR), 2025*.
+[Aman Singh](https://singhaman1750.github.io/), [Bhavya Giri Goswami](https://www.linkedin.com/in/bhavya-giri-goswami/), [Ketan Nehete](https://ketan-nehete-portfolio-hub.lovable.app/), [Shishir Kolathaya](https://www.shishirny.com/)
 
-**Authors:** [Aman Singh](https://singhaman1750.github.io/), [Bhavya Giri Goswami](https://www.linkedin.com/in/bhavya-giri-goswami/), [Ketan Nehete](https://ketan-nehete-portfolio-hub.lovable.app/), [Shishir Kolathaya](https://www.shishirny.com/)
+*International Conference on Advances in Robotics (AIR), 2025*
 
-**Links:** [Paper](https://arxiv.org/abs/2503.14255) · [Video](https://youtu.be/ygSMCPcFnP8) · [Website](https://aman-singh.in/stoch3-design/)
+[![Paper](https://img.shields.io/badge/Paper-ACM-0085CA?style=for-the-badge)](https://dl.acm.org/doi/10.1145/3787370.3787373)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.14255-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.14255)
+[![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ygSMCPcFnP8)
+[![Website](https://img.shields.io/badge/Website-Project_Page-2EA44F?style=for-the-badge)](https://aman-singh.in/stoch3-design/)
+[![CAD Files](https://img.shields.io/badge/CAD_Files-Jump_below_%E2%86%93-F39C12?style=for-the-badge)](#cad-design-links)
 
-> [!IMPORTANT]
-> **Looking for the CAD files?** They're below the poster. Jump to **[CAD Design Links ↓](#cad-design-links)** (Onshape & GrabCAD).
+This repository provides the open-source mechanical designs (CAD) for the paper.
+
+</div>
 
 <p align="center">
   <img src="images/svg_diagrams/stoch-3%20poster.svg" width="100%">
