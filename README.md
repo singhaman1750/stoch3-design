@@ -6,7 +6,7 @@ This repository provides resources for the paper **["A Chain-Driven, Sandwich-Le
 
 **Authors:** [Aman Singh](https://singhaman1750.github.io/), [Bhavya Giri Goswami](https://www.linkedin.com/in/bhavya-giri-goswami/), [Ketan Nehete](https://ketan-nehete-portfolio-hub.lovable.app/), [Shishir Kolathaya](https://www.shishirny.com/)
 
-**Links:** [Paper](https://arxiv.org/abs/2503.14255) · [Video](https://youtu.be/ygSMCPcFnP8)
+**Links:** [Paper](https://arxiv.org/abs/2503.14255) · [Video](https://youtu.be/ygSMCPcFnP8) · [Website](https://aman-singh.in/stoch3-design/)
 
 <p align="center">
   <img src="images/svg_diagrams/stoch-3%20poster.svg" width="100%">
