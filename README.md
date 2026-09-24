@@ -36,15 +36,3 @@ CAD models are also available on [GrabCAD](https://grabcad.com/), a widely used 
 | Part | Link |
 |---|---|
 | Actuator design | [Link](https://grabcad.com/library/stoch3-quadruped-robot-joint-actuator-1) |
-
----
-
-## Design of the Robot
-
-### Robot Dimensions
-
-<p align="center">
-  <img src="images/Robot-dimensions.png" width="40%">
-  <br>
-  <em>Robot Dimensions</em>
-</p>
