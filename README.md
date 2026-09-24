@@ -9,7 +9,7 @@ This repository provides resources for the paper **["A Chain-Driven, Sandwich-Le
 **Links:** [Paper](https://arxiv.org/abs/2503.14255) · [Video](https://youtu.be/ygSMCPcFnP8)
 
 <p align="center">
-  <img src="images/svg_diagrams/stoch-3%20poster.svg" width="40%">
+  <img src="images/svg_diagrams/stoch-3%20poster.svg" width="100%">
   <br>
   <em>Stoch 3 robot</em>
 </p>
